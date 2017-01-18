@@ -1,0 +1,6 @@
+c:\users\stan\documents\visual studio 2015\Projects\Project2\Project2\bin\Release\Project2.exe.config
+c:\users\stan\documents\visual studio 2015\Projects\Project2\Project2\bin\Release\Project2.exe
+c:\users\stan\documents\visual studio 2015\Projects\Project2\Project2\bin\Release\Project2.pdb
+c:\users\stan\documents\visual studio 2015\Projects\Project2\Project2\obj\Release\Project2.exe
+c:\users\stan\documents\visual studio 2015\Projects\Project2\Project2\obj\Release\Project2.pdb
+C:\Users\Stan\Documents\Visual Studio 2015\Projects\Project2\Project2\obj\Release\Project2.csprojResolveAssemblyReference.cache
